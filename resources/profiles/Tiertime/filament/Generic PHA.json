@@ -1,0 +1,12 @@
+{
+    "type": "filament",
+    "name": "Generic PHA",
+    "inherits": "fdm_filament_pha",
+    "from": "system",
+    "filament_id": "GFR98",
+    "instantiation": "true",
+    "compatible_printers": [
+        "Tiertime 400 Pro 0.4 nozzle",
+        "Tiertime 310 Pro 0.4 nozzle"
+    ]
+}

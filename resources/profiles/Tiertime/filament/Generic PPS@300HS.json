@@ -1,0 +1,11 @@
+{
+    "type": "filament",
+    "name": "Generic PPS@300HS",
+    "inherits": "fdm_filament_pps",
+    "from": "system",
+    "filament_id": "GFT97_01",
+    "instantiation": "true",
+    "compatible_printers": [
+        "Tiertime 300 HS 0.4 nozzle"
+    ]
+}
